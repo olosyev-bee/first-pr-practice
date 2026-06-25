@@ -1,6 +1,6 @@
 # first-pr-practice
 
-A tiny practice repo for makeing my first GitHub pull request.
+A tiny practice repo for making my first GitHub pull request.
 
 ## What is this?
 
